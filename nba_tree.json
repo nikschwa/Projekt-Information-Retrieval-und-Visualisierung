@@ -1,0 +1,94 @@
+{
+"name" : "NBA",
+"children": [
+   {
+      "name": "C",
+      "children" : [
+      {
+         "name": "Joel Embiid (PHI)",
+         "children" : [
+      {
+            "name": "Max PTS (29.7)" 
+         }
+      ]
+      },
+      {
+         "name": "Nikola Jokic (DEN)",
+         "children" : [
+      {
+            "name": "Max AST (8.6)" 
+         }
+      ]
+      },
+      {
+         "name": "Clint Capela (ATL)",
+         "children" : [
+      {
+            "name": "Max REB (14.0)" 
+         }
+      ]
+      },
+      {
+         "name": "Myles Turner (IND)",
+         "children" : [
+      {
+            "name": "Max BLK (3.5)" 
+         }
+      ]
+      },
+      {
+         "name": "Andre Drummond (CLE)",
+         "children" : [
+      {
+            "name": "Max STL (1.6)" 
+         }
+      ]
+      }
+   ]
+   },
+   {
+      "name": "PG",
+      "children" : [
+      {
+         "name": "Stephen Curry (GSW)",
+         "children" : [
+      {
+            "name": "Max PTS (30.0)" 
+         }
+      ]
+      },
+      {
+         "name": "Russell Westbrook (WAS)",
+         "children" : [
+      {
+            "name": "Max AST (9.5)" 
+         },
+         {
+            "name": "Max REB (9.4)" 
+         }
+      ]
+      },
+      {
+         "name": "De'Anthony Melton (MEM)",
+         "children" : [
+      {
+            "name": "Max BLK (1.0)" 
+         }
+      ]
+      },
+      {
+         "name": "Jrue Holiday (MIL)",
+         "children" : [
+      {
+            "name": "Max STL (1.9)" 
+         }
+      ]
+      }
+      ]
+      }
+   ]
+   }  
+
+
+
+
