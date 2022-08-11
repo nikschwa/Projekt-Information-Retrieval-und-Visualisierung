@@ -49,10 +49,7 @@
             }
                            ]
          },
-         {
-            "name": "Advanced Stats (C)",
-            "children": [
-            {
+         
                   "name": "Nikola Jokic (DEN)",
                   "children" : [
                         {
@@ -70,7 +67,7 @@
                            "name": "Max PER (33.5)" 
                         }
                               ]
-            }
+            
                         ]
          }
                       ]
