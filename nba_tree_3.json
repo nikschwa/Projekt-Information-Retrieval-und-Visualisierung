@@ -1,0 +1,80 @@
+{
+   "name" : "NBA Stats Leader",
+   "children": [
+      {
+      "name": "C",
+      "children" : [
+         {
+             "name": "Regular Stats (C)",
+             "children": [
+             {
+                  "name": "Joel Embiid (PHI)",
+                  "children" : [
+                        {
+                           "name": "Max PTS (29.7)" 
+                        }
+                               ]
+             },
+             {
+                  "name": "Nikola Jokic (DEN)",
+                  "children" : [
+                        {
+                           "name": "Max AST (8.6)" 
+                         }
+                               ]
+            },
+            {
+                  "name": "Clint Capela (ATL)",
+                  "children" : [
+                        {
+                           "name": "Max REB (14.0)" 
+                        }
+                               ]
+            },
+            {
+                  "name": "Myles Turner (IND)",
+                  "children" : [
+                        {
+                           "name": "Max BLK (3.5)" 
+                        }
+                              ]
+            },
+            {
+                  "name": "Andre Drummond (CLE)",
+                  "children" : [
+                        {
+                           "name": "Max STL (1.6)" 
+                         }
+                               ]
+            }
+                           ]
+         },
+         {
+            "name": "Advanced Stats (C)",
+            "children": [
+            {
+                  "name": "Nikola Jokic (DEN)",
+                  "children" : [
+                        {
+                           "name": "Max WS (6.3)" 
+                        },
+                        {
+                           "name": "Max VORP (3.4)" 
+                         }
+                              ]
+            },
+            {
+                  "name": "Moses Brown (OKC)",
+                  "children" : [
+                        {
+                           "name": "Max PER (33.5)" 
+                        }
+                              ]
+            }
+                        ]
+         }
+                      ]
+      }               
+      
+      ]
+      }
