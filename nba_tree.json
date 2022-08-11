@@ -4,6 +4,9 @@
    {
       "name": "C",
       "children" : [
+         {
+            "name": "Regular Stats (C)",
+            "children": [
       {
          "name": "Joel Embiid (PHI)",
          "children" : [
@@ -45,10 +48,37 @@
       ]
       }
    ]
+},
+   {
+      "name": "Advanced Stats (C)",
+      "children": [
+   {
+   "name": "Nikola Jokic (DEN)",
+   "children" : [
+   {
+      "name": "Max WS (6.3)" 
+   },
+   {
+      "name": "Max VORP (3.4)" 
+   }
+   ]
+   },
+   {
+   "name": "Moses Brown (OKC)",
+   "children" : [
+   {
+     "name": "Max PER (33.5)" 
+   }
+   ]
+   }     
+   ]
    },
    {
       "name": "PF",
       "children" : [
+         {
+            "name": "Regular Stats (PF)",
+            "children": [
       {
          "name": "Kevin Durant (BRK)",
          "children" : [
@@ -89,6 +119,30 @@
          }
       ]
       }
+   ]
+   },
+   {
+      "name": "Advanced Stats (PF)",
+      "children": [
+   {
+   "name": "Giannis Antetokounmpo (MIL)",
+   "children" : [
+   {
+      "name": "Max WS (4.3)" 
+   },
+   {
+      "name": "Max VORP (2.1)" 
+   }
+   ]
+   },
+   {
+   "name": "Devontae Cacok (LAL)",
+   "children" : [
+   {
+     "name": "Max PER (38.7)" 
+   }
+   ]
+   }
    ]
    },   
    {
@@ -213,6 +267,10 @@
             }
    ]
    }  
+]
+}
+]
+}
 
 
 
