@@ -25,7 +25,15 @@
                              "name": "Max PER (33.5)" 
                           }
                                 ]
-              }
+              },
+              {
+                "name": "Test (OKC)",
+                "children" : [
+                      {
+                         "name": "Max PER (35.5)" 
+                      }
+                            ]
+          }
                         ]
          },
          {
