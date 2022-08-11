@@ -1,0 +1,353 @@
+{
+   "name" : "NBA Stats Leader",
+   "children": [
+      {
+         "name": "Regular Stats",
+         "children": [        
+      {
+         "name": "C (RegSt)",
+         "children" : [
+               {
+                    "name": "Joel Embiid (PHI)",
+                    "children" : [
+                          {
+                             "name": "Max PTS (29.7)" 
+                          }
+                                 ]
+               },
+               {
+                    "name": "Nikola Jokic (DEN)",
+                    "children" : [
+                          {
+                             "name": "Max AST (8.6)" 
+                           }
+                                 ]
+              },
+              {
+                    "name": "Clint Capela (ATL)",
+                    "children" : [
+                          {
+                             "name": "Max REB (14.0)" 
+                          }
+                                 ]
+              }
+                             ]
+      },                     
+      {
+         "name": "PF (RegSt)",
+         "children" : [
+         {
+            "name": "Kevin Durant (BRK)",
+            "children" : [
+         {
+               "name": "Max PTS (29.0)" 
+            }
+         ]
+         },
+         {
+            "name": "Draymond Green (GSW)",
+            "children" : [
+         {
+               "name": "Max AST (8.3)" 
+            }
+         ]
+         },
+         {
+            "name": "Domantas Sabonis (IND)",
+            "children" : [
+         {
+               "name": "Max REB (11.6)" 
+            }
+         ]
+         },
+         {
+            "name": "Kostas Antetokounmpo (LAL)",
+            "children" : [
+         {
+               "name": "Max BLK (2.0)" 
+            }
+         ]
+         },
+         {
+            "name": "Larry Nance Jr. (CLE)",
+            "children" : [
+         {
+               "name": "Max STL (1.9)" 
+            }
+         ]
+         }
+      ]
+      },   
+      {
+         "name": "PG (RegSt)",
+         "children" : [
+         {
+            "name": "Stephen Curry (GSW)",
+            "children" : [
+         {
+               "name": "Max PTS (30.0)" 
+            }
+         ]
+         },
+         {
+            "name": "Russell Westbrook (WAS)",
+            "children" : [
+         {
+               "name": "Max AST (9.5)" 
+            },
+            {
+               "name": "Max REB (9.4)" 
+            }
+         ]
+         },
+         {
+            "name": "De'Anthony Melton (MEM)",
+            "children" : [
+         {
+               "name": "Max BLK (1.0)" 
+            }
+         ]
+         },
+         {
+            "name": "Jrue Holiday (MIL)",
+            "children" : [
+         {
+               "name": "Max Stl (1.9) " 
+            }           
+         ]
+         }
+         ]
+         },
+         {
+            "name": "SF (RegSt)",
+            "children" : [
+            {
+               "name": "Kawhi Leonard (LAC)",
+               "children" : [
+            {
+                  "name": "Max PTS (26.7)" 
+               }
+            ]
+            },
+            {
+               "name": "Jimmy Butler (MIA)",
+               "children" : [
+            {
+                  "name": "Max AST (7.4)" 
+               },
+               {
+                  "name": "Max REB (7.7)" 
+               }
+            ]
+            },
+            {
+               "name": "Michael Porter Jr. (DEN)",
+               "children" : [
+            {
+                  "name": "Max BLK (1.2)" 
+               }
+            ]
+            },
+            {
+               "name": "OG Anunoby (TOR)",
+               "children" : [
+            {
+                  "name": "Max STL (2)" 
+               }
+            ]
+            }
+            ]
+            },
+            {
+               "name": "SG (RegSt)",
+               "children" : [
+               {
+                  "name": "Bradley Beal (WAS)",
+                  "children" : [
+               {
+                     "name": "Max PTS (32.8)" 
+                  }
+               ]
+               },
+               {
+                  "name": "James Harden (BRK)",
+                  "children" : [
+               {
+                     "name": "Max AST (11.4)" 
+                  },
+                  {
+                     "name": "Max REB (8.4)" 
+                  }
+               ]
+               },
+               {
+                  "name": "Derrick White (SAS)",
+                  "children" : [
+               {
+                     "name": "Max Blk (1.0) " 
+                  }
+               ]
+               },
+               {
+                  "name": "Fred VanVleet (TOR)",
+                  "children" : [
+               {
+                     "name": "Max STL (1.7)" 
+                  }
+               ]
+               }
+               ]
+               }
+            ]
+         },
+         {
+            "name": "Advanced Stats",
+            "children": [        
+               {
+                  "name": "C (AdvSt)",
+                  "children" : [
+                        {
+                  "name": "Nikola Jokic (DEN)",
+                  "children" : [
+                        {
+                           "name": "Max WS (6.3)" 
+                        },
+                        {
+                           "name": "Max VORP (3.4)" 
+                         }
+                              ]
+            },
+            {
+                  "name": "Moses Brown (OKC)",
+                  "children" : [
+                        {
+                           "name": "Max PER (33.5)" 
+                        }
+                              ]
+            }
+                        ]
+               },   
+               {
+                  "name": "PG (AdvSt)",
+                  "children" : [
+                  {
+                     "name": "Stephen Curry (GSW)",
+                     "children" : [
+                  {
+                        "name": "Max PTS (30.0)" 
+                     }
+                  ]
+                  },
+                  {
+                     "name": "Russell Westbrook (WAS)",
+                     "children" : [
+                  {
+                        "name": "Max AST (9.5)" 
+                     },
+                     {
+                        "name": "Max REB (9.4)" 
+                     }
+                  ]
+                  },
+                  {
+                     "name": "De'Anthony Melton (MEM)",
+                     "children" : [
+                  {
+                        "name": "Max BLK (1.0)" 
+                     }
+                  ]
+                  },
+                  {
+                     "name": "Jrue Holiday (MIL)",
+                     "children" : [
+                  {
+                        "name": "Max Stl (1.9) " 
+                     }           
+                  ]
+                  }
+                  ]
+                  },
+                  {
+                     "name": "SF (AdvSt)",
+                     "children" : [
+                     {
+                        "name": "Kawhi Leonard (LAC)",
+                        "children" : [
+                     {
+                           "name": "Max PTS (26.7)" 
+                        }
+                     ]
+                     },
+                     {
+                        "name": "Jimmy Butler (MIA)",
+                        "children" : [
+                     {
+                           "name": "Max AST (7.4)" 
+                        },
+                        {
+                           "name": "Max REB (7.7)" 
+                        }
+                     ]
+                     },
+                     {
+                        "name": "Michael Porter Jr. (DEN)",
+                        "children" : [
+                     {
+                           "name": "Max BLK (1.2)" 
+                        }
+                     ]
+                     },
+                     {
+                        "name": "OG Anunoby (TOR)",
+                        "children" : [
+                     {
+                           "name": "Max STL (2)" 
+                        }
+                     ]
+                     }
+                     ]
+                     },
+                     {
+                        "name": "SG (AdvSt)",
+                        "children" : [
+                        {
+                           "name": "Bradley Beal (WAS)",
+                           "children" : [
+                        {
+                              "name": "Max PTS (32.8)" 
+                           }
+                        ]
+                        },
+                        {
+                           "name": "James Harden (BRK)",
+                           "children" : [
+                        {
+                              "name": "Max AST (11.4)" 
+                           },
+                           {
+                              "name": "Max REB (8.4)" 
+                           }
+                        ]
+                        },
+                        {
+                           "name": "Derrick White (SAS)",
+                           "children" : [
+                        {
+                              "name": "Max Blk (1.0) " 
+                           }
+                        ]
+                        },
+                        {
+                           "name": "Fred VanVleet (TOR)",
+                           "children" : [
+                        {
+                              "name": "Max STL (1.7)" 
+                           }
+                        ]
+                        }
+                        ]
+                        }
+               ]
+            }         
+      ]
+      }
