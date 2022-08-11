@@ -9,6 +9,30 @@
              "children": [
 
                         ]
+         },
+         {
+            "name": "Advanced Stats (C)",
+            "children": [
+            {
+                  "name": "Nikola Jokic (DEN)",
+                  "children" : [
+                        {
+                           "name": "Max WS (6.3)" 
+                        },
+                        {
+                           "name": "Max VORP (3.4)" 
+                         }
+                              ]
+            },
+            {
+                  "name": "Moses Brown (OKC)",
+                  "children" : [
+                        {
+                           "name": "Max PER (33.5)" 
+                        }
+                              ]
+            }
+                        ]
          }
                       ]
       },
@@ -20,7 +44,31 @@
             "children": [
                   
                         ]
-                     }
+                     },
+                     {
+                        "name": "Advanced Stats (PF)",
+                        "children": [
+                           {
+                              "name": "Giannis Antetokounmpo (MIL)",
+                              "children" : [
+                                    {
+                                       "name": "Max WS (4.3)" 
+                                    },
+                                    {
+                                       "name": "Max VORP (2.1)" 
+                                    }
+                                          ]
+                           },
+                           {
+                              "name": "Devontae Cacok (LAL)",
+                              "children" : [
+                                    {
+                                        "name": "Max PER (38.7)" 
+                                    }
+                                           ]
+                            }
+                                 ]
+                              }
                   ]            
       },   
       {
@@ -35,6 +83,33 @@
         {
          "name": "Advanced Stats (PG)",
          "children": [
+            {
+               "name": "Damian Lillard (POR)",
+               "children" : [
+                  {
+                     "name": "Max WS (4.5)" 
+                  },
+                  {
+                     "name": "Max PER (27.1)" 
+                  }
+                           ]
+            },
+            {
+               "name": "Luca Doncic (DAL)",
+               "children" : [
+                  {
+                     "name": "Max VORP (2.4)" 
+                  }
+                              ]
+            },
+            {
+            "name": "Stephen Curry (GSW)",
+            "children" : [
+                  {
+                     "name": "Max VORP (2.4)" 
+                  }
+                        ]
+            }
                   
                      ]
          }  
@@ -82,7 +157,30 @@
             {
                "name": "Advanced Stats (SG)",
                "children": [
-                     
+                  {
+                     "name": "Zach LaVine (CHI)",
+                     "children" : [
+                           {
+                              "name": "Max WS (3.1)" 
+                           }
+                                 ]
+                  },
+                  {
+                     "name": "CJ McCollum (POR)",
+                     "children" : [
+                        {
+                              "name": "Max PER (26.4)" 
+                        }
+                                 ]
+                  },
+                  {
+                     "name": "Bradley Beal (WAS)",
+                     "children" : [
+                        {
+                           "name": "Max VORP (1.5)" 
+                        }
+                                 ]
+                  }
                            ]
             }  
                         ]
