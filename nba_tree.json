@@ -46,9 +46,9 @@
             "name": "Max STL (1.6)" 
          }
       ]
-      }
+   }
    ]
-},
+   },
    {
       "name": "Advanced Stats (C)",
       "children": [
@@ -70,7 +70,7 @@
      "name": "Max PER (33.5)" 
    }
    ]
-   }     
+   }
    ]
    },
    {
@@ -148,6 +148,9 @@
    {
       "name": "PG",
       "children" : [
+         {
+            "name": "Regular Stats (PG)",
+            "children": [
       {
          "name": "Stephen Curry (GSW)",
          "children" : [
@@ -186,8 +189,43 @@
       ]
       },
       {
+         "name": "Advanced Stats (PG)",
+         "children": [
+      {
+      "name": "Damian Lillard (POR)",
+      "children" : [
+      {
+         "name": "Max WS (4.5)" 
+      },
+      {
+         "name": "Max PER (27.1)" 
+      }
+      ]
+      },
+      {
+      "name": "Luca Doncic (DAL)",
+      "children" : [
+      {
+        "name": "Max VORP (2.4)" 
+      }
+      ]
+      },
+      {
+         "name": "Stephen Curry (GSW)",
+         "children" : [
+         {
+           "name": "Max VORP (2.4)" 
+         }
+         ]
+         }
+      ]
+      },
+      {
          "name": "SF",
          "children" : [
+            {
+               "name": "Regular Stats (SF)",
+               "children": [
          {
             "name": "Kawhi Leonard (LAC)",
             "children" : [
@@ -223,11 +261,33 @@
             }
          ]
          }
+         ]        
+         },
+         {
+            "name": "Advanced Stats (SF)",
+            "children": [
+         {
+         "name": "Kawhi Leonard (LAC)",
+         "children" : [
+         {
+            "name": "Max WS (4.1)" 
+         },
+         {
+            "name": "Max PER (27.5)" 
+         },
+         {
+            "name": "Max VORP (1.7)" 
+         }
          ]
+         }
+      ]
          },
          {
             "name": "SG",
             "children" : [
+               {
+                  "name": "Regular Stats (SG)",
+                  "children": [
             {
                "name": "Bradley Beal (WAS)",
                "children" : [
@@ -264,14 +324,48 @@
             ]
             }
             ]
+            },
+            {
+               "name": "Advanced Stats (SG)",
+               "children": [
+            {
+            "name": "Zach LaVine (CHI)",
+            "children" : [
+            {
+               "name": "Max WS (3.1)" 
             }
+            ]
+            },
+            {
+            "name": "CJ McCollum (POR)",
+            "children" : [
+            {
+              "name": "Max PER (26.4)" 
+            }
+            ]
+            },
+            {
+               "name": "Bradley Beal (WAS)",
+               "children" : [
+               {
+                 "name": "Max VORP (1.5)" 
+               }
+               ]
+               }
    ]
    }  
 ]
 }
 ]
 }
-
+      ]
+   }
+]
+   }
+]
+   }
+]
+}
 
 
 
