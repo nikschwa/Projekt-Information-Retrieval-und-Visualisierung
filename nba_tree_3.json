@@ -22,30 +22,6 @@
                            "name": "Max AST (8.6)" 
                          }
                                ]
-            },
-            {
-                  "name": "Clint Capela (ATL)",
-                  "children" : [
-                        {
-                           "name": "Max REB (14.0)" 
-                        }
-                               ]
-            },
-            {
-                  "name": "Myles Turner (IND)",
-                  "children" : [
-                        {
-                           "name": "Max BLK (3.5)" 
-                        }
-                              ]
-            },
-            {
-                  "name": "Andre Drummond (CLE)",
-                  "children" : [
-                        {
-                           "name": "Max STL (1.6)" 
-                         }
-                               ]
             }
                            ]
          },
