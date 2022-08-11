@@ -5,7 +5,7 @@
          "name": "Regular Stats",
          "children": [        
       {
-         "name": "C",
+         "name": "C (ReSt)",
          "children" : [
                {
                     "name": "Joel Embiid (PHI)",
@@ -50,7 +50,7 @@
                              ]
       },                     
       {
-         "name": "PF",
+         "name": "PF (ReSt)",
          "children" : [
          {
             "name": "Kevin Durant (BRK)",
@@ -95,7 +95,7 @@
       ]
       },   
       {
-         "name": "PG",
+         "name": "PG (ReSt)",
          "children" : [
          {
             "name": "Stephen Curry (GSW)",
@@ -135,7 +135,7 @@
          ]
          },
          {
-            "name": "SF",
+            "name": "SF (ReSt)",
             "children" : [
             {
                "name": "Kawhi Leonard (LAC)",
@@ -175,7 +175,7 @@
             ]
             },
             {
-               "name": "SG",
+               "name": "SG (ReSt)",
                "children" : [
                {
                   "name": "Bradley Beal (WAS)",
