@@ -2,8 +2,8 @@
    "name" : "NBA Stats Leader",
    "children": [
       {
-      "name": "C",
-      "children" : [
+         "name": "C",
+         "children" : [
          {
              "name": "Regular Stats (C)",
              "children": [
@@ -76,8 +76,8 @@
                       ]
       },
       {
-      "name": "PF",
-      "children" : [
+         "name": "PF",
+         "children" : [
          {
             "name": "Regular Stats (PF)",
             "children": [
@@ -150,8 +150,8 @@
                   ]            
       },   
       {
-      "name": "PG",
-      "children" : [
+         "name": "PG",
+         "children" : [
          {
             "name": "Regular Stats (PG)",
             "children": [
