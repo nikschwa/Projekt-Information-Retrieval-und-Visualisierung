@@ -1,0 +1,96 @@
+{
+   "name" : "NBA Stats Leader",
+   "children": [
+      {
+      "name": "C",
+      "children" : [
+         {
+             "name": "Regular Stats (C)",
+             "children": [
+
+                        ]
+         }
+                      ]
+      },
+      {
+      "name": "PF",
+      "children" : [
+         {
+            "name": "Regular Stats (PF)",
+            "children": [
+                  
+                        ]
+                     }
+                  ]            
+      },   
+      {
+      "name": "PG",
+      "children" : [
+         {
+            "name": "Regular Stats (PG)",
+            "children": [
+                 
+                         ]
+        },
+        {
+         "name": "Advanced Stats (PG)",
+         "children": [
+                  
+                     ]
+         }  
+         ]
+      },
+      {
+         "name": "SF",
+         "children" : [
+            {
+               "name": "Regular Stats (SF)",
+               "children": [
+                     
+                           ]        
+           },
+           {
+            "name": "Advanced Stats (SF)",
+            "children": [
+                  {
+                     "name": "Kawhi Leonard (LAC)",
+                     "children" : [
+                        {
+                           "name": "Max WS (4.1)" 
+                        },
+                        {
+                           "name": "Max PER (27.5)" 
+                        },
+                        {
+                           "name": "Max VORP (1.7)" 
+                        }
+                           ]
+                  }
+                ]
+            }
+            ]
+      },
+      {
+            "name": "SG",
+            "children" : [
+               {
+                  "name": "Regular Stats (SG)",
+                  "children": [
+                        
+                  ]        
+            },
+            {
+               "name": "Advanced Stats (SG)",
+               "children": [
+                     
+                           ]
+            }  
+                        ]
+      }
+]
+}
+
+
+
+
+
