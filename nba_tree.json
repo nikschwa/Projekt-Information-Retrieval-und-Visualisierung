@@ -74,10 +74,10 @@
                                 ]
                  },
                  {
-                    "name": "Draymond Green (GSW)",
+                    "name": "Kostas Antetokounmpo (LAL)",
                     "children" : [
                        {
-                           "name": "Max AST (8.3)" 
+                           "name": "Max BLK (2.0)" 
                         }
                                 ]
                  },
@@ -136,9 +136,14 @@
                     "children" : [
                           {
                              "name": "Max AST (9.5)" 
-                          },
+                          }
+                                ]
+                 },
+                 {
+                    "name": "Jrue Holiday (MIL)",
+                    "children" : [
                           {
-                             "name": "Max REB (9.4)" 
+                             "name": "Max STL (1.9)" 
                           }
                                 ]
                  }
